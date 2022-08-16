@@ -7,7 +7,7 @@ ${myname} =   戴棕鳴
 
 
 *** Test Cases ***
-Verify_first_title_has_myname
+verify_first_title_has_myname
     verify_myname
     
 *** Keywords ***
