@@ -1,4 +1,4 @@
-# RobotFramework-test
+# RobotFramework
 依據iT邦幫忙首頁撰寫測試案例，使用RobotFramework關鍵詞進行驗證。<br>
 測試案例:<br>
 https://docs.google.com/spreadsheets/d/1r4lDTOjFRqjiXP9lrVnSRUNI4SnelUhKxRHf2eG77_8/edit#gid=72010521<br>
