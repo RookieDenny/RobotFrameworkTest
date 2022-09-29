@@ -6,3 +6,4 @@ DEMO影片:<br>
 https://drive.google.com/file/d/106DR4jpCJB__2AHbHZ7hVGyXcihbzaO1/view?usp=sharing
 ## 執行
 pipenv install
+pipenv run robot index.robot
